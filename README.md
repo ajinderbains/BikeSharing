@@ -9,7 +9,7 @@ This analysis is prepared to attract  investors .for the analysis following ques
 5. How many and for how long bikers for bikesharing for each hour for each  day?
 6. How many used bikes for each day of month?
 7. How many used bikes for wach hour of the day?
-For the analysis datafile is used for the month of august  and [python program] is used to change the data  type of field(tripduration)  to Date Time .
+For the analysis datafile is used for the month of august  and [python program](https://github.com/ajinderbains/BikeSharing/blob/main/NYC_CitiBike_Challenge_starter_code.ipynb) is used to change the data  type of field(tripduration)  to Date Time .
 
 ## Results:
 For this purpose following 7 visulations are prepared. there is story of these visulizations is published on Tableaue [NY Bike shareriding  story link](https://public.tableau.com/profile/ajinder6608#!/vizhome/NYBikeRideShare/NYBikeshare?publish=yes) .
